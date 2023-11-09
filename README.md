@@ -1,5 +1,8 @@
 ## Deployment
 
+#### Deployed on AWS EC2:
+http://54.169.206.143:8501/
+
 #### 1. Clone Repository
 
 ```bash
